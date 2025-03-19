@@ -1,8 +1,8 @@
-# Git Guardian
+# Aqua Guardian
 
 ## Overview
 
-Git Guardian is a Flask-deployed Machine Learning (ML) application with Large Language Model (LLM) integration. It is designed to analyze water quality by leveraging multiple ML models and providing intelligent insights through Google's Gemini AI.
+Aqua Guardian is a Flask-deployed Machine Learning (ML) application with Large Language Model (LLM) integration. It is designed to analyze water quality by leveraging multiple ML models and providing intelligent insights through Google's Gemini AI.
 
 ## Features
 
