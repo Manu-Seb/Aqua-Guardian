@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Water Quality and Waste Report</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+        }
+
+        .back-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background: #0288d1;
+            padding: 8px 15px;
+            border-radius: 5px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+
+        .back-button:hover {
+            background: #0277bd;
+            transform: scale(1.05);
+        }
+
+        h1 {
+            color: #01579b;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        h2 {
+            color: #0277bd;
+            margin: 20px 0 10px;
+            text-align: center;
+        }
+
+        .chart-container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: #e0f7fa;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .error-message {
+            color: #d32f2f;
+            text-align: center;
+            font-weight: bold;
+            margin: 20px 0;
+            display: none;
+        }
+
+        .conclusion {
+            background: #80deea;
+            padding: 15px;
+            border-radius: 10px;
+            color: #01579b;
+            font-weight: bold;
+            text-align: center;
+            margin: 20px auto;
+            max-width: 800px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Back Button -->
+        <a href="{{ url_for('home') }}" class="back-button">Back</a>
+
+        <h1>Water Quality and Waste Report</h1>
+
+        <!-- Waste Labels Frequency -->
+        <h2>Frequency of All Waste Labels</h2>
+        <div class="chart-container">
+            <canvas id="wasteChart"></canvas>
+        </div>
+
+        <!-- Water Quality for Aquatic Life -->
+        <h2>Water Quality for Aquatic Life Habitat</h2>
+        <div class="chart-container">
+            <canvas id="aquaticChart"></canvas>
+        </div>
+        <p id="aquaticError" class="error-message">Please run some inference on water quality for aquatic life habitat</p>
+
+        <!-- Water Quality for Potability -->
+        <h2>Water Quality for Potability</h2>
+        <div class="chart-container">
+            <canvas id="potabilityChart"></canvas>
+        </div>
+        <p id="potabilityError" class="error-message">Please run some inference on water quality assessment</p>
+
+        <!-- Conclusion -->
+        <div id="conclusion" class="conclusion"></div>
+
+        <br>
+        <a href="{{ url_for('home') }}">Back to Home</a>
+    </div>
+
+    <script>
+        // Fetch report data from the correct endpoint
+        fetch("{{ url_for('generate_report_page') }}")
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Server error: " + response.status);
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Waste Labels Frequency Bar Chart
+                const wasteCtx = document.getElementById('wasteChart').getContext('2d');
+                new Chart(wasteCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: data.labels,
+                        datasets: [{
+                            label: 'Occurrences',
+                            data: data.occurrences,
+                            backgroundColor: '#0288d1',
+                            borderColor: '#0277bd',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        indexAxis: 'y',
+                        scales: {
+                            x: { title: { display: true, text: 'Occurrences' } },
+                            y: { title: { display: true, text: 'Labels' } }
+                        },
+                        plugins: {
+                            title: { display: true, text: 'Histogram of Occurrences' }
+                        }
+                    }
+                });
+
+                // Water Quality for Aquatic Life Pie Chart
+                const aquaticCtx = document.getElementById('aquaticChart').getContext('2d');
+                const aquaticCounts = [data.quality_aquatic.filter(x => x === 0).length, 
+                                     data.quality_aquatic.filter(x => x === 1).length];
+                if (data.quality_aquatic.length === 0) {
+                    document.getElementById('aquaticError').style.display = 'block';
+                } else {
+                    const aquaticAns = aquaticCounts[0] > aquaticCounts[1] ? 0 : 1;
+                    const labelsH = ['Habitual', 'Not Habitual'];
+                    const habitual = labelsH[aquaticAns];
+                    new Chart(aquaticCtx, {
+                        type: 'pie',
+                        data: {
+                            labels: labelsH,
+                            datasets: [{
+                                data: aquaticCounts,
+                                backgroundColor: ['#cfaca4', '#623337']
+                            }]
+                        },
+                        options: {
+                            plugins: {
+                                title: { display: true, text: 'Proportions Of Water Quality' },
+                                tooltip: { callbacks: { label: (context) => `${context.label}: ${((context.raw / aquaticCounts.reduce((a, b) => a + b)) * 100).toFixed(1)}%` } }
+                            }
+                        }
+                    });
+
+                    // Water Quality for Potability Pie Chart
+                    const potabilityCtx = document.getElementById('potabilityChart').getContext('2d');
+                    const potabilityCounts = [data.quality_potability.filter(x => x === 0).length, 
+                                            data.quality_potability.filter(x => x === 1).length];
+                    if (data.quality_potability.length === 0) {
+                        document.getElementById('potabilityError').style.display = 'block';
+                    } else {
+                        const potabilityAns = potabilityCounts[0] > potabilityCounts[1] ? 0 : 1;
+                        const labelsWqa = ['Fit for use', 'Polluted'];
+                        const qwa = labelsWqa[potabilityAns];
+                        new Chart(potabilityCtx, {
+                            type: 'pie',
+                            data: {
+                                labels: labelsWqa,
+                                datasets: [{
+                                    data: potabilityCounts,
+                                    backgroundColor: ['#1f77b4', '#ff7f0e']
+                                }]
+                            },
+                            options: {
+                                plugins: {
+                                    title: { display: true, text: 'Proportions Of Water Quality' },
+                                    tooltip: { callbacks: { label: (context) => `${context.label}: ${((context.raw / potabilityCounts.reduce((a, b) => a + b)) * 100).toFixed(1)}%` } }
+                                }
+                            }
+                        });
+
+                        // Conclusion
+                        const maxOccurrences = Math.max(...data.occurrences);
+                        const mostSeenWaste = data.labels[data.occurrences.indexOf(maxOccurrences)];
+                        document.getElementById('conclusion').innerText = 
+                            `In the recent images, the most seen type of waste is "${mostSeenWaste}" that has been seen ${maxOccurrences} times. ` +
+                            `Also, the water quality has been analyzed and the water has been labelled as "${habitual}" for aquatic life ` +
+                            `and "${qwa}" by humans.`;
+                        document.getElementById('conclusion').style.display = 'block';
+                    }
+                }
+            })
+            .catch(error => {
+                console.error("Error fetching report data:", error);
+                document.querySelectorAll('.chart-container').forEach(container => {
+                    container.innerHTML = '<p style="color: #d32f2f; text-align: center;">Error loading data. Please try again later.</p>';
+                });
+            });
+    </script>
+</body>
+</html>

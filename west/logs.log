@@ -1,0 +1,1324 @@
+2024-09-05 21:09:28,676:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:09:28,676:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:09:28,676:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:09:28,676:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:20:03,211:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:20:03,211:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:20:03,211:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:20:03,211:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:22:04,099:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:22:04,099:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:22:04,099:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:22:04,099:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:22:24,636:INFO:Initializing load_model()
+2024-09-05 21:22:24,636:INFO:load_model(model_name=C:/Users/Acer/Documents/Neural_Ocean/Notebooks_PyFiles/models/Water_Quality_Assessment/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 21:23:07,047:INFO:Initializing load_model()
+2024-09-05 21:23:07,047:INFO:load_model(model_name=C:/Users/Acer/Documents/Neural_Ocean/Notebooks_PyFiles/models/Water_Quality_Assessment/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 21:25:10,410:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:25:10,410:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:25:10,410:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:25:10,410:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:25:16,317:INFO:Initializing load_model()
+2024-09-05 21:25:16,317:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 21:32:08,717:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:32:08,718:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:32:08,718:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:32:08,718:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:33:44,412:INFO:Initializing load_model()
+2024-09-05 21:33:44,413:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 21:37:24,841:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:37:24,842:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:37:24,842:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:37:24,842:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 21:38:17,619:INFO:Initializing load_model()
+2024-09-05 21:38:17,620:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 21:41:56,814:INFO:Initializing load_model()
+2024-09-05 21:41:56,815:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 22:51:41,113:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 22:51:41,113:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 22:51:41,113:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 22:51:41,113:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 22:53:01,253:INFO:Initializing load_model()
+2024-09-05 22:53:01,253:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 22:54:16,576:INFO:Initializing load_model()
+2024-09-05 22:54:16,578:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:07:38,960:INFO:Initializing load_model()
+2024-09-05 23:07:38,960:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:10:08,601:INFO:Initializing load_model()
+2024-09-05 23:10:08,602:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:10:18,842:INFO:Initializing load_model()
+2024-09-05 23:10:18,842:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:10:24,723:INFO:Initializing load_model()
+2024-09-05 23:10:24,724:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:11:25,786:INFO:Initializing load_model()
+2024-09-05 23:11:25,787:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:15:37,546:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:15:37,546:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:15:37,546:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:15:37,546:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:21:13,157:INFO:Initializing load_model()
+2024-09-05 23:21:13,157:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:26:13,449:INFO:Initializing load_model()
+2024-09-05 23:26:13,450:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:34:21,323:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:34:21,323:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:34:21,323:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:34:21,323:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:34:25,281:INFO:Initializing load_model()
+2024-09-05 23:34:25,282:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_PotabilityC:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:34:57,228:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:34:57,228:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:34:57,228:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:34:57,228:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:34:59,412:INFO:Initializing load_model()
+2024-09-05 23:34:59,412:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month.pkl, platform=None, authentication=None, verbose=True)
+2024-09-05 23:36:30,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:36:30,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:36:30,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:36:30,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:36:32,196:INFO:Initializing load_model()
+2024-09-05 23:36:32,196:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:38:02,733:INFO:Initializing load_model()
+2024-09-05 23:38:02,733:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:39:52,738:INFO:Initializing load_model()
+2024-09-05 23:39:52,738:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-05 23:46:04,237:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:46:04,237:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:46:04,237:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:46:04,237:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-05 23:46:15,971:INFO:Initializing load_model()
+2024-09-05 23:46:15,971:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-06 00:02:49,474:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 00:02:49,474:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 00:02:49,474:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 00:02:49,474:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:28:13,056:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:28:13,057:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:28:13,057:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:28:13,057:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:29:38,610:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:29:38,610:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:29:38,610:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:29:38,610:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:30:18,473:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:30:18,473:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:30:18,473:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:30:18,473:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:31:16,362:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:31:16,362:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:31:16,362:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:31:16,362:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:32:30,390:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:32:30,390:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:32:30,390:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:32:30,390:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:33:00,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:33:00,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:33:00,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:33:00,790:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:34:06,717:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:34:06,717:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:34:06,717:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:34:06,717:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:34:11,281:INFO:Initializing load_model()
+2024-09-06 04:34:11,281:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-06 04:34:57,791:INFO:Initializing load_model()
+2024-09-06 04:34:57,791:INFO:load_model(model_name=C:/Users/jaini/Download/UDT/models/Water_Potability/xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2024-09-06 04:35:56,010:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:35:56,010:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:35:56,010:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:35:56,010:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:35:58,724:INFO:Initializing load_model()
+2024-09-06 04:35:58,724:INFO:load_model(model_name=C:/Users/jaini/Downloads/UDT/models/Water_Potability/xgboost_without_source_month.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 04:36:22,235:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:36:22,235:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:36:22,235:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:36:22,235:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:37:17,193:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:37:17,193:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:37:17,193:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:37:17,193:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:38:38,084:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:38:38,084:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:38:38,085:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:38:38,085:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:39:34,398:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:39:34,398:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:39:34,398:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:39:34,398:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:39:37,200:INFO:Initializing load_model()
+2024-09-06 04:39:37,200:INFO:load_model(model_name=C:/Users/jaini/Downloads/UDT/models/Water_Potability/waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 04:41:17,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:41:17,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:41:17,408:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:41:17,408:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:42:18,652:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:42:18,652:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:42:18,652:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:42:18,652:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:42:21,321:INFO:Initializing load_model()
+2024-09-06 04:42:21,321:INFO:load_model(model_name=C:/Users/jaini/Downloads/UDT/models/Water_Potability/waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 04:44:33,106:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:44:33,106:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:44:33,106:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:44:33,106:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:45:50,629:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:45:50,629:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:45:50,629:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:45:50,629:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:45:55,386:INFO:Initializing load_model()
+2024-09-06 04:45:55,386:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 04:46:28,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:46:28,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:46:28,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:46:28,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:46:45,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:46:45,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:46:45,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:46:45,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 04:46:49,182:INFO:Initializing load_model()
+2024-09-06 04:46:49,182:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 04:58:25,110:INFO:Initializing load_model()
+2024-09-06 04:58:25,110:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 04:58:39,095:INFO:Initializing load_model()
+2024-09-06 04:58:39,095:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:00:12,611:INFO:Initializing load_model()
+2024-09-06 05:00:12,611:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:00:31,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:00:31,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:00:31,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:00:31,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:01:39,935:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:01:39,935:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:01:39,935:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:01:39,935:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:03:01,225:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:03:01,226:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:03:01,226:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:03:01,226:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:04:12,501:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:04:12,501:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:04:12,501:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:04:12,501:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:02,276:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:02,276:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:02,276:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:02,276:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:04,928:INFO:Initializing load_model()
+2024-09-06 05:05:04,928:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:05:21,282:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:21,282:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:21,282:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:21,282:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:49,044:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:49,044:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:49,044:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:49,044:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:05:51,424:INFO:Initializing load_model()
+2024-09-06 05:05:51,424:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:06:12,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:06:12,650:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:06:12,650:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:06:12,650:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:08:36,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:08:36,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:08:36,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:08:36,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:09:09,843:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:09:09,843:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:09:09,844:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:09:09,844:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:09:13,302:INFO:Initializing load_model()
+2024-09-06 05:09:13,302:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:11:32,689:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:11:32,689:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:11:32,689:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:11:32,689:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:11:35,855:INFO:Initializing load_model()
+2024-09-06 05:11:35,856:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability, platform=None, authentication=None, verbose=True)
+2024-09-06 05:12:12,175:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:12:12,175:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:12:12,175:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:12:12,175:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:13:17,216:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:13:17,216:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:13:17,216:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:13:17,216:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:13:21,177:INFO:Initializing load_model()
+2024-09-06 05:13:21,178:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:15:32,416:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:15:32,416:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:15:32,416:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:15:32,416:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:16:27,969:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:16:27,969:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:16:27,969:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:16:27,969:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:17:31,340:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:17:31,340:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:17:31,340:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:17:31,340:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:17:34,519:INFO:Initializing load_model()
+2024-09-06 05:17:34,519:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:19:37,557:INFO:Initializing load_model()
+2024-09-06 05:19:37,557:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:20:55,902:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:20:55,902:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:20:55,902:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:20:55,902:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:21:01,384:INFO:Initializing load_model()
+2024-09-06 05:21:01,384:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:22:45,924:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:22:45,924:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:22:45,924:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:22:45,924:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:22:50,253:INFO:Initializing load_model()
+2024-09-06 05:22:50,253:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:27:17,848:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:27:17,848:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:27:17,848:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:27:17,848:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:28:18,633:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:28:18,634:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:28:18,634:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:28:18,634:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:29:08,224:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:29:08,224:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:29:08,224:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:29:08,224:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:31:14,478:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:31:14,478:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:31:14,478:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:31:14,478:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:33:18,757:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:33:18,757:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:33:18,757:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:33:18,757:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:35:08,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:35:08,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:35:08,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:35:08,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:35:11,880:INFO:Initializing load_model()
+2024-09-06 05:35:11,881:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:36:02,304:INFO:Initializing load_model()
+2024-09-06 05:36:02,304:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:36:43,609:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:36:43,609:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:36:43,610:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:36:43,610:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:36:50,175:INFO:Initializing load_model()
+2024-09-06 05:36:50,175:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:37:44,867:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:37:44,867:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:37:44,867:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:37:44,867:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:37:49,819:INFO:Initializing load_model()
+2024-09-06 05:37:49,820:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability, platform=None, authentication=None, verbose=True)
+2024-09-06 05:39:47,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:39:47,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:39:47,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:39:47,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:39:50,144:INFO:Initializing load_model()
+2024-09-06 05:39:50,144:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:42:00,764:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:42:00,764:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:42:00,764:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:42:00,765:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:42:05,032:INFO:Initializing load_model()
+2024-09-06 05:42:05,032:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:42:05,062:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:44:11,107:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:44:11,107:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:44:11,107:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:44:11,107:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:44:14,790:INFO:Initializing load_model()
+2024-09-06 05:44:14,790:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:44:14,792:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:45:40,076:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:45:40,076:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:45:40,076:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:45:40,076:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:45:42,434:INFO:Initializing load_model()
+2024-09-06 05:45:42,434:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:45:42,436:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:45:54,229:INFO:Initializing load_model()
+2024-09-06 05:45:54,229:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:45:54,269:INFO:Initializing predict_model()
+2024-09-06 05:45:54,270:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000019A55AF0940>, estimator=SVC(kernel='linear', random_state=42), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000019A5DC26940>)
+2024-09-06 05:45:54,270:INFO:Checking exceptions
+2024-09-06 05:45:54,270:INFO:Preloading libraries
+2024-09-06 05:46:04,672:INFO:Initializing load_model()
+2024-09-06 05:46:04,672:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:04,673:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:46:06,326:INFO:Initializing load_model()
+2024-09-06 05:46:06,327:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:06,503:INFO:Initializing load_model()
+2024-09-06 05:46:06,503:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:06,690:INFO:Initializing load_model()
+2024-09-06 05:46:06,690:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:07,781:INFO:Initializing load_model()
+2024-09-06 05:46:07,781:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:07,949:INFO:Initializing load_model()
+2024-09-06 05:46:07,949:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:08,113:INFO:Initializing load_model()
+2024-09-06 05:46:08,113:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:09,742:INFO:Initializing load_model()
+2024-09-06 05:46:09,743:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:09,754:INFO:Initializing predict_model()
+2024-09-06 05:46:09,754:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000019A7FABD220>, estimator=SVC(kernel='linear', random_state=42), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000019A5DDC24C0>)
+2024-09-06 05:46:09,754:INFO:Checking exceptions
+2024-09-06 05:46:09,754:INFO:Preloading libraries
+2024-09-06 05:46:17,431:INFO:Initializing load_model()
+2024-09-06 05:46:17,431:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:17,433:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:46:17,444:INFO:Initializing predict_model()
+2024-09-06 05:46:17,444:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000019A5DDD2C40>, estimator=SVC(kernel='linear', random_state=42), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000019A5DDC20D0>)
+2024-09-06 05:46:17,444:INFO:Checking exceptions
+2024-09-06 05:46:17,444:INFO:Preloading libraries
+2024-09-06 05:46:19,240:INFO:Initializing load_model()
+2024-09-06 05:46:19,240:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:19,243:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:46:19,408:INFO:Initializing load_model()
+2024-09-06 05:46:19,408:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:19,550:INFO:Initializing load_model()
+2024-09-06 05:46:19,550:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:25,253:INFO:Initializing load_model()
+2024-09-06 05:46:25,253:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:25,446:INFO:Initializing load_model()
+2024-09-06 05:46:25,446:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:25,613:INFO:Initializing load_model()
+2024-09-06 05:46:25,614:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:25,749:INFO:Initializing load_model()
+2024-09-06 05:46:25,749:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:27,136:INFO:Initializing load_model()
+2024-09-06 05:46:27,136:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:29,270:INFO:Initializing load_model()
+2024-09-06 05:46:29,271:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:29,313:INFO:Initializing predict_model()
+2024-09-06 05:46:29,313:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000019A5DC2CA30>, estimator=SVC(kernel='linear', random_state=42), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000019A5DDC2820>)
+2024-09-06 05:46:29,313:INFO:Checking exceptions
+2024-09-06 05:46:29,314:INFO:Preloading libraries
+2024-09-06 05:46:30,302:INFO:Initializing load_model()
+2024-09-06 05:46:30,303:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:46:30,304:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:46:30,317:INFO:Initializing predict_model()
+2024-09-06 05:46:30,317:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000019A5D6E0F70>, estimator=SVC(kernel='linear', random_state=42), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000019A5DDED5E0>)
+2024-09-06 05:46:30,317:INFO:Checking exceptions
+2024-09-06 05:46:30,317:INFO:Preloading libraries
+2024-09-06 05:47:26,563:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:47:26,564:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:47:26,564:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:47:26,564:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:47:28,920:INFO:Initializing load_model()
+2024-09-06 05:47:28,920:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:47:43,159:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:47:43,159:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:47:43,159:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:47:43,159:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:47:45,035:INFO:Initializing load_model()
+2024-09-06 05:47:45,035:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:47:45,037:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:47:48,973:INFO:Initializing load_model()
+2024-09-06 05:47:48,973:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:47:49,830:INFO:Initializing load_model()
+2024-09-06 05:47:49,831:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:47:50,406:INFO:Initializing load_model()
+2024-09-06 05:47:50,406:INFO:load_model(model_name=C:\Users\jaini\Downloads\UDT\models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:47:50,419:INFO:Initializing predict_model()
+2024-09-06 05:47:50,419:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000020557084730>, estimator=SVC(kernel='linear', random_state=42), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000205570AB0D0>)
+2024-09-06 05:47:50,419:INFO:Checking exceptions
+2024-09-06 05:47:50,419:INFO:Preloading libraries
+2024-09-06 05:48:59,215:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:48:59,215:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:48:59,215:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:48:59,215:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:49:01,807:INFO:Initializing load_model()
+2024-09-06 05:49:01,807:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:50:02,455:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:50:02,455:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:50:02,455:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:50:02,455:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:50:04,543:INFO:Initializing load_model()
+2024-09-06 05:50:04,543:INFO:load_model(model_name=models\Water_Potability\waterpotability_model.pkl, platform=None, authentication=None, verbose=True)
+2024-09-06 05:50:30,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:50:30,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:50:30,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:50:30,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:51:29,555:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:51:29,555:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:51:29,555:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:51:29,555:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:51:32,134:INFO:Initializing load_model()
+2024-09-06 05:51:32,134:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:51:32,136:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:51:34,547:INFO:Initializing load_model()
+2024-09-06 05:51:34,547:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:51:59,176:INFO:Initializing load_model()
+2024-09-06 05:51:59,176:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:51:59,177:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:52:00,500:INFO:Initializing load_model()
+2024-09-06 05:52:00,500:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:53:58,546:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:53:58,546:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:53:58,546:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:53:58,546:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:54:01,549:INFO:Initializing load_model()
+2024-09-06 05:54:01,549:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:01,551:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:54:03,506:INFO:Initializing load_model()
+2024-09-06 05:54:03,506:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:06,872:INFO:Initializing load_model()
+2024-09-06 05:54:06,872:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:11,676:INFO:Initializing load_model()
+2024-09-06 05:54:11,677:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:11,837:INFO:Initializing load_model()
+2024-09-06 05:54:11,837:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:12,007:INFO:Initializing load_model()
+2024-09-06 05:54:12,008:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:13,083:INFO:Initializing load_model()
+2024-09-06 05:54:13,084:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:13,243:INFO:Initializing load_model()
+2024-09-06 05:54:13,243:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:14,124:INFO:Initializing load_model()
+2024-09-06 05:54:14,125:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:14,252:INFO:Initializing load_model()
+2024-09-06 05:54:14,253:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:14,902:INFO:Initializing load_model()
+2024-09-06 05:54:14,902:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:15,457:INFO:Initializing load_model()
+2024-09-06 05:54:15,457:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:16,059:INFO:Initializing load_model()
+2024-09-06 05:54:16,060:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:16,852:INFO:Initializing load_model()
+2024-09-06 05:54:16,852:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:17,685:INFO:Initializing load_model()
+2024-09-06 05:54:17,685:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:18,605:INFO:Initializing load_model()
+2024-09-06 05:54:18,605:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:54:19,398:INFO:Initializing load_model()
+2024-09-06 05:54:19,398:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:55:50,203:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:55:50,203:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:55:50,203:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:55:50,203:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:55:52,270:INFO:Initializing load_model()
+2024-09-06 05:55:52,270:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:55:52,272:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:55:53,949:INFO:Initializing load_model()
+2024-09-06 05:55:53,949:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:55:57,332:INFO:Initializing load_model()
+2024-09-06 05:55:57,333:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:55:58,342:INFO:Initializing load_model()
+2024-09-06 05:55:58,342:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:55:59,107:INFO:Initializing load_model()
+2024-09-06 05:55:59,107:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:56:00,244:INFO:Initializing load_model()
+2024-09-06 05:56:00,244:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:56:01,141:INFO:Initializing load_model()
+2024-09-06 05:56:01,141:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:56:01,829:INFO:Initializing load_model()
+2024-09-06 05:56:01,830:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:56:02,676:INFO:Initializing load_model()
+2024-09-06 05:56:02,676:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:56:04,522:INFO:Initializing load_model()
+2024-09-06 05:56:04,522:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:56:05,603:INFO:Initializing load_model()
+2024-09-06 05:56:05,603:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:56:06,219:INFO:Initializing load_model()
+2024-09-06 05:56:06,219:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:56:07,118:INFO:Initializing load_model()
+2024-09-06 05:56:07,118:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:57:07,573:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:57:07,574:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:57:07,574:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:57:07,574:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 05:57:11,841:INFO:Initializing load_model()
+2024-09-06 05:57:11,841:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:57:11,843:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:57:13,492:INFO:Initializing load_model()
+2024-09-06 05:57:13,492:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:57:15,939:INFO:Initializing load_model()
+2024-09-06 05:57:15,940:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:57:15,941:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:57:34,277:INFO:Initializing load_model()
+2024-09-06 05:57:34,277:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:57:34,279:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:58:36,438:INFO:Initializing load_model()
+2024-09-06 05:58:36,438:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 05:58:36,439:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 05:58:37,476:INFO:Initializing load_model()
+2024-09-06 05:58:37,477:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 06:03:04,709:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:03:04,709:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:03:04,709:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:03:04,709:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:03:07,544:INFO:Initializing load_model()
+2024-09-06 06:03:07,544:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 06:03:07,545:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 06:03:10,012:INFO:Initializing load_model()
+2024-09-06 06:03:10,012:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 06:04:40,646:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:04:40,646:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:04:40,646:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:04:40,646:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:04:43,798:INFO:Initializing load_model()
+2024-09-06 06:04:43,799:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 06:04:43,800:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 06:04:44,835:INFO:Initializing load_model()
+2024-09-06 06:04:44,835:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 06:06:08,312:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:06:08,312:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:06:08,313:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:06:08,313:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 06:06:10,818:INFO:Initializing load_model()
+2024-09-06 06:06:10,818:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 06:06:10,819:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 06:06:11,846:INFO:Initializing load_model()
+2024-09-06 06:06:11,846:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 06:06:36,287:INFO:Initializing load_model()
+2024-09-06 06:06:36,287:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 06:06:36,288:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 06:06:37,476:INFO:Initializing load_model()
+2024-09-06 06:06:37,476:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 07:25:24,626:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 07:25:24,627:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 07:25:24,627:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 07:25:24,627:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 07:26:06,670:INFO:Initializing load_model()
+2024-09-06 07:26:06,670:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 07:26:06,706:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 07:26:07,646:INFO:Initializing load_model()
+2024-09-06 07:26:07,646:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 07:26:42,684:INFO:Initializing load_model()
+2024-09-06 07:26:42,684:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 07:26:42,686:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 08:50:25,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 08:50:25,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 08:50:25,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 08:50:25,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 08:51:06,368:INFO:Initializing load_model()
+2024-09-06 08:51:06,369:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 08:51:06,397:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 08:51:07,609:INFO:Initializing load_model()
+2024-09-06 08:51:07,609:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 09:17:08,563:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:17:08,563:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:17:08,563:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:17:08,563:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:21:15,416:INFO:Initializing load_model()
+2024-09-06 09:21:15,416:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 09:21:15,429:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 09:21:20,398:INFO:Initializing load_model()
+2024-09-06 09:21:20,398:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 09:22:22,701:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:22:22,701:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:22:22,701:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:22:22,701:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:23:16,528:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:23:16,528:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:23:16,528:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:23:16,528:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:30:17,149:INFO:Initializing load_model()
+2024-09-06 09:30:17,149:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 09:30:17,152:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 09:30:22,018:INFO:Initializing load_model()
+2024-09-06 09:30:22,018:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 09:35:42,540:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:35:42,540:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:35:42,540:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:35:42,540:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-09-06 09:35:45,043:INFO:Initializing load_model()
+2024-09-06 09:35:45,043:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2024-09-06 09:35:45,046:WARNING:C:\Users\jaini\Downloads\UDT\new_env\lib\site-packages\sklearn\base.py:376: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.4.0 when using version 1.4.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2024-09-06 09:35:48,235:INFO:Initializing load_model()
+2024-09-06 09:35:48,235:INFO:load_model(model_name=models\Water_Potability\waterpotability_model, platform=None, authentication=None, verbose=True)
+2025-03-15 21:12:44,905:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:12:44,905:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:12:44,905:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:12:44,906:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:12:45,829:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-15 21:14:32,614:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:14:32,614:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:14:32,614:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:14:32,614:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:14:33,303:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-15 21:22:36,129:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:22:36,129:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:22:36,129:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:22:36,129:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:22:36,785:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-15 21:25:15,800:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:25:15,801:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:25:15,801:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:25:15,801:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:25:16,482:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-15 21:27:39,058:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:27:39,058:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:27:39,058:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:27:39,058:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:27:39,700:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-15 21:46:24,000:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:46:24,000:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:46:24,000:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:46:24,001:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:46:24,873:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-15 21:48:01,139:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:48:01,140:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:48:01,140:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:48:01,140:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-03-15 21:48:01,807:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-15 21:55:56,961:INFO:Initializing load_model()
+2025-03-15 21:55:56,961:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 21:55:57,255:WARNING:C:\Users\thean\anaconda3\envs\west\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.0.0', 'IPython': '8.18.1', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.23.5', 'pandas': '1.4.2', 'jinja2': '3.1.6', 'scipy': '1.9.3', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.5.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.4', 'sktime': '0.36.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.7.2', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.18.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-03-15 21:56:01,015:INFO:Initializing load_model()
+2025-03-15 21:56:01,016:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 21:56:01,060:INFO:Initializing predict_model()
+2025-03-15 21:56:01,061:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000027B10F4AAF0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pH', 'Iron', 'Nitrate',
+                                             'Chloride', 'Lead', 'Zinc',
+                                             'Turbidity', 'Fluoride', 'Copper',
+                                             'Odor', 'Sulfate', 'Chlorine',
+                                             'Manganese',
+                                             'Total Dissolved Solids'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Color'],
+                                    transformer=...
+                               feature_types=None, gamma=None, gpu_id=None,
+                               grow_policy=None, importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, n_estimators=100,
+                               n_jobs=-1, num_parallel_tree=None,
+                               predictor=None, random_state=6633, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000027B10FCDB80>)
+2025-03-15 21:56:01,061:INFO:Checking exceptions
+2025-03-15 21:56:01,061:INFO:Preloading libraries
+2025-03-15 21:56:01,061:INFO:Set up data.
+2025-03-15 21:56:01,070:INFO:Set up index.
+2025-03-15 21:56:04,278:INFO:Initializing load_model()
+2025-03-15 21:56:04,278:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 21:56:04,289:WARNING:C:\Users\thean\anaconda3\envs\west\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.0.0', 'IPython': '8.18.1', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.23.5', 'pandas': '1.4.2', 'jinja2': '3.1.6', 'scipy': '1.9.3', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.5.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.4', 'sktime': '0.36.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.7.2', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.18.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-03-15 21:56:04,322:INFO:Initializing predict_model()
+2025-03-15 21:56:04,322:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000027B10FA8310>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pH', 'Iron', 'Nitrate',
+                                             'Chloride', 'Lead', 'Zinc',
+                                             'Turbidity', 'Fluoride', 'Copper',
+                                             'Odor', 'Sulfate', 'Chlorine',
+                                             'Manganese',
+                                             'Total Dissolved Solids'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Color'],
+                                    transformer=...
+                               feature_types=None, gamma=None, gpu_id=None,
+                               grow_policy=None, importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, n_estimators=100,
+                               n_jobs=-1, num_parallel_tree=None,
+                               predictor=None, random_state=6633, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000027B10A19820>)
+2025-03-15 21:56:04,323:INFO:Checking exceptions
+2025-03-15 21:56:04,323:INFO:Preloading libraries
+2025-03-15 21:56:04,323:INFO:Set up data.
+2025-03-15 21:56:04,329:INFO:Set up index.
+2025-03-15 21:56:04,371:INFO:Initializing load_model()
+2025-03-15 21:56:04,372:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 21:56:04,532:WARNING:C:\Users\thean\anaconda3\envs\west\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.0.0', 'IPython': '8.18.1', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.23.5', 'pandas': '1.4.2', 'jinja2': '3.1.6', 'scipy': '1.9.3', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.5.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.4', 'sktime': '0.36.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.7.2', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.18.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-03-15 21:56:04,711:INFO:Initializing predict_model()
+2025-03-15 21:56:04,711:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000027B109F4A00>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pH', 'Iron', 'Nitrate',
+                                             'Chloride', 'Lead', 'Zinc',
+                                             'Turbidity', 'Fluoride', 'Copper',
+                                             'Odor', 'Sulfate', 'Chlorine',
+                                             'Manganese',
+                                             'Total Dissolved Solids'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Color'],
+                                    transformer=...
+                               feature_types=None, gamma=None, gpu_id=None,
+                               grow_policy=None, importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, n_estimators=100,
+                               n_jobs=-1, num_parallel_tree=None,
+                               predictor=None, random_state=6633, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000027B109E74C0>)
+2025-03-15 21:56:04,712:INFO:Checking exceptions
+2025-03-15 21:56:04,712:INFO:Preloading libraries
+2025-03-15 21:56:04,712:INFO:Set up data.
+2025-03-15 21:56:04,716:INFO:Set up index.
+2025-03-15 21:56:14,693:INFO:Initializing load_model()
+2025-03-15 21:56:14,693:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 21:56:14,703:WARNING:C:\Users\thean\anaconda3\envs\west\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.0.0', 'IPython': '8.18.1', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.23.5', 'pandas': '1.4.2', 'jinja2': '3.1.6', 'scipy': '1.9.3', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.5.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.4', 'sktime': '0.36.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.7.2', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.18.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-03-15 21:56:22,861:INFO:Initializing load_model()
+2025-03-15 21:56:22,861:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 21:58:53,371:INFO:Initializing load_model()
+2025-03-15 21:58:53,371:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 21:58:53,381:WARNING:C:\Users\thean\anaconda3\envs\west\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.0.0', 'IPython': '8.18.1', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.23.5', 'pandas': '1.4.2', 'jinja2': '3.1.6', 'scipy': '1.9.3', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.5.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.4', 'sktime': '0.36.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.7.2', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.18.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-03-15 21:58:59,978:INFO:Initializing load_model()
+2025-03-15 21:58:59,978:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 21:59:00,016:INFO:Initializing predict_model()
+2025-03-15 21:59:00,017:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000027B10FCFF10>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pH', 'Iron', 'Nitrate',
+                                             'Chloride', 'Lead', 'Zinc',
+                                             'Turbidity', 'Fluoride', 'Copper',
+                                             'Odor', 'Sulfate', 'Chlorine',
+                                             'Manganese',
+                                             'Total Dissolved Solids'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Color'],
+                                    transformer=...
+                               feature_types=None, gamma=None, gpu_id=None,
+                               grow_policy=None, importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, n_estimators=100,
+                               n_jobs=-1, num_parallel_tree=None,
+                               predictor=None, random_state=6633, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000027B12307B80>)
+2025-03-15 21:59:00,017:INFO:Checking exceptions
+2025-03-15 21:59:00,017:INFO:Preloading libraries
+2025-03-15 21:59:00,018:INFO:Set up data.
+2025-03-15 21:59:00,027:INFO:Set up index.
+2025-03-15 21:59:02,000:INFO:Initializing load_model()
+2025-03-15 21:59:02,000:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 21:59:02,010:WARNING:C:\Users\thean\anaconda3\envs\west\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.0.0', 'IPython': '8.18.1', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.23.5', 'pandas': '1.4.2', 'jinja2': '3.1.6', 'scipy': '1.9.3', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.5.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.4', 'sktime': '0.36.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.7.2', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.18.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-03-15 21:59:02,041:INFO:Initializing predict_model()
+2025-03-15 21:59:02,041:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000027B109E2910>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pH', 'Iron', 'Nitrate',
+                                             'Chloride', 'Lead', 'Zinc',
+                                             'Turbidity', 'Fluoride', 'Copper',
+                                             'Odor', 'Sulfate', 'Chlorine',
+                                             'Manganese',
+                                             'Total Dissolved Solids'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Color'],
+                                    transformer=...
+                               feature_types=None, gamma=None, gpu_id=None,
+                               grow_policy=None, importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, n_estimators=100,
+                               n_jobs=-1, num_parallel_tree=None,
+                               predictor=None, random_state=6633, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000027B53747C10>)
+2025-03-15 21:59:02,041:INFO:Checking exceptions
+2025-03-15 21:59:02,041:INFO:Preloading libraries
+2025-03-15 21:59:02,042:INFO:Set up data.
+2025-03-15 21:59:02,048:INFO:Set up index.
+2025-03-15 22:03:56,395:INFO:Initializing load_model()
+2025-03-15 22:03:56,395:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 22:03:56,404:WARNING:C:\Users\thean\anaconda3\envs\west\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.0.0', 'IPython': '8.18.1', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.23.5', 'pandas': '1.4.2', 'jinja2': '3.1.6', 'scipy': '1.9.3', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.5.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.4', 'sktime': '0.36.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.7.2', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.18.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-03-15 22:05:44,690:INFO:Initializing load_model()
+2025-03-15 22:05:44,690:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 22:05:44,699:WARNING:C:\Users\thean\anaconda3\envs\west\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.0.0', 'IPython': '8.18.1', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.23.5', 'pandas': '1.4.2', 'jinja2': '3.1.6', 'scipy': '1.9.3', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.5.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.4', 'sktime': '0.36.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.7.2', 'pycaret': '3.0.0', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.18.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-03-15 22:05:48,079:INFO:Initializing load_model()
+2025-03-15 22:05:48,079:INFO:load_model(model_name=C:\Users\thean\Documents\codework\water new\west\models\Water_Potability\xgboost_without_source_month, platform=None, authentication=None, verbose=True)
+2025-03-15 22:05:48,118:INFO:Initializing predict_model()
+2025-03-15 22:05:48,118:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000027B10C69CD0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['pH', 'Iron', 'Nitrate',
+                                             'Chloride', 'Lead', 'Zinc',
+                                             'Turbidity', 'Fluoride', 'Copper',
+                                             'Odor', 'Sulfate', 'Chlorine',
+                                             'Manganese',
+                                             'Total Dissolved Solids'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Color'],
+                                    transformer=...
+                               feature_types=None, gamma=None, gpu_id=None,
+                               grow_policy=None, importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, n_estimators=100,
+                               n_jobs=-1, num_parallel_tree=None,
+                               predictor=None, random_state=6633, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000027B10D48B80>)
+2025-03-15 22:05:48,119:INFO:Checking exceptions
+2025-03-15 22:05:48,119:INFO:Preloading libraries
+2025-03-15 22:05:48,119:INFO:Set up data.
+2025-03-15 22:05:48,126:INFO:Set up index.

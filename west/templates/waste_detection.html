@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Underwater Waste Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        /* Additional specific styles */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+        }
+
+        .back-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background: #0288d1;
+            padding: 8px 15px;
+            border-radius: 5px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+
+        .back-button:hover {
+            background: #0277bd;
+            transform: scale(1.05);
+        }
+
+        #uploadPreview {
+            margin: 20px auto;
+            max-width: 500px;
+            display: none;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .form-group {
+            margin: 20px 0;
+        }
+
+        button {
+            background: #0288d1;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s ease;
+        }
+
+        button:hover {
+            background: #0277bd;
+        }
+
+        #loadingBarContainer {
+            display: none;
+            width: 60%;
+            margin: 20px auto;
+            background: #e0f7fa;
+            border-radius: 5px;
+            padding: 3px;
+        }
+
+        #loadingBar {
+            width: 0%;
+            height: 20px;
+            background: #0288d1;
+            border-radius: 3px;
+            transition: width 0.3s ease;
+        }
+
+        #resultSection {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 15px;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+
+        #resultSection h3 {
+            color: #01579b;
+            margin-top: 0;
+        }
+
+        #resultSection ul#wasteList {
+            list-style-type: disc;
+            padding-left: 20px;
+            max-width: 500px;
+            margin: 10px auto;
+        }
+
+        #resultSection ul#wasteList li {
+            background: #80deea;
+            margin: 5px 0;
+            padding: 8px;
+            border-radius: 5px;
+            color: #01579b;
+        }
+
+        #resultSection img#detectedImage {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 15px auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        #cleanupSuggestions {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #e1f5fe;
+        }
+
+        #cleanupSuggestions h3 {
+            color: #0277bd;
+            margin-top: 0;
+        }
+
+        #cleanupSuggestions ol {
+            padding-left: 20px;
+        }
+
+        #cleanupSuggestions li {
+            margin-bottom: 8px;
+            color: #01579b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="{{ url_for('home') }}" class="back-button">Back</a>
+
+        <h1>Underwater Waste Detection</h1>
+
+        <form id="wasteDetectionForm" class="form-group">
+            <input type="file" name="image" id="imageInput" accept="image/*" required>
+            <button type="submit">Detect Waste</button>
+        </form>
+
+        <img id="uploadPreview" alt="Uploaded Image">
+
+        <div id="loadingBarContainer">
+            <div id="loadingBar"></div>
+        </div>
+
+        <p id="errorMessage" class="error"></p>
+
+        <div id="resultSection" style="display: none;">
+            <h3>Detected Waste:</h3>
+            <ul id="wasteList"></ul>
+            <img id="detectedImage" alt="Detected Waste">
+        </div>
+
+        <div id="cleanupSuggestions" style="display: none;">
+            <h3>Cleanup and Prevention Suggestions:</h3>
+            <div id="suggestionsContent"></div>
+        </div>
+
+        <br>
+        <a href="{{ url_for('home') }}">Back to Home</a>
+    </div>
+
+    <script>
+        const form = document.getElementById("wasteDetectionForm");
+        const imageInput = document.getElementById("imageInput");
+        const uploadPreview = document.getElementById("uploadPreview");
+        const loadingBarContainer = document.getElementById("loadingBarContainer");
+        const loadingBar = document.getElementById("loadingBar");
+        const loadingMessage = document.getElementById("loadingMessage");
+        const errorMessage = document.getElementById("errorMessage");
+        const resultSection = document.getElementById("resultSection");
+        const wasteList = document.getElementById("wasteList");
+        const detectedImage = document.getElementById("detectedImage");
+        const cleanupSuggestionsSection = document.getElementById("cleanupSuggestions");
+        const suggestionsContent = document.getElementById("suggestionsContent");
+
+        // Show preview of uploaded image
+        imageInput.addEventListener("change", function() {
+            const file = this.files[0];
+            if (file) {
+                uploadPreview.src = URL.createObjectURL(file);
+                uploadPreview.style.display = "block";
+            }
+        });
+
+        form.addEventListener("submit", async function(event) {
+            event.preventDefault();
+
+            let formData = new FormData();
+            let imageFile = imageInput.files[0];
+
+            if (!imageFile) {
+                errorMessage.innerText = "Please select an image.";
+                return;
+            }
+
+            formData.append("image", imageFile);
+
+            // Show loading indicators
+            loadingBarContainer.style.display = "block";
+            loadingMessage.style.display = "block";
+            errorMessage.innerText = "";
+            resultSection.style.display = "none";
+            detectedImage.style.display = "none";
+            cleanupSuggestionsSection.style.display = "none";
+            suggestionsContent.innerHTML = "";
+
+            // Simulate loading progress
+            loadingBar.style.width = "30%";
+            setTimeout(() => loadingBar.style.width = "70%", 500);
+
+            try {
+                let response = await fetch("{{ url_for('inference.detect_waste') }}", {
+                    method: "POST",
+                    body: formData
+                });
+
+                let data = await response.json();
+
+                // Complete loading
+                loadingBar.style.width = "100%";
+                setTimeout(() => {
+                    loadingBarContainer.style.display = "none";
+                    loadingMessage.style.display = "none";
+                    loadingBar.style.width = "0%";
+                }, 300);
+
+                if (data.error) {
+                    errorMessage.innerText = "Error: " + data.error;
+                    return;
+                }
+
+                // Display detected waste
+                wasteList.innerHTML = "";
+                if (data.detected_objects && data.detected_objects.length > 0) {
+                    data.detected_objects.forEach(item => {
+                        let listItem = document.createElement("li");
+                        listItem.textContent = item;
+                        wasteList.appendChild(listItem);
+                    });
+                    resultSection.style.display = "block";
+                } else {
+                    wasteList.innerHTML = "<li>No waste detected in the image.</li>";
+                    resultSection.style.display = "block";
+                }
+
+                detectedImage.src = "data:image/jpeg;base64," + data.image_base64;
+                detectedImage.style.display = "block";
+
+                // Display cleanup suggestions
+                if (data.cleanup_suggestions) {
+                    suggestionsContent.innerHTML = data.cleanup_suggestions.replace(/\n/g, '<br>');
+                    cleanupSuggestionsSection.style.display = "block";
+                } else {
+                    suggestionsContent.innerHTML = "<p>No specific cleanup suggestions available at this time.</p>";
+                    cleanupSuggestionsSection.style.display = "block";
+                }
+
+            } catch (error) {
+                loadingBarContainer.style.display = "none";
+                loadingMessage.style.display = "none";
+                errorMessage.innerText = "An error occurred. Please try again.";
+                console.error("Error:", error);
+            }
+        });
+    </script>
+</body>
+</html>

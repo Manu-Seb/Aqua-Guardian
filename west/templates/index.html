@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Aqua Guardian</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>AquaGuardian</h1>
+    <img src="{{ url_for('static', filename='assets/yacht.jpg') }}" width="600px">
+    <p>AquaGuardian is an innovative environmental monitoring system designed to protect and preserve aquatic ecosystems. By integrating advanced underwater waste detection, precise water potability testing, and detailed quality assessments for aquatic habitats, AquaGuardian empowers users to analyze and maintain the health of water bodies. With real-time data visualization and actionable insights, it identifies pollutants, tracks waste, and ensures water safety for both human use and marine life. Committed to sustainability, AquaGuardian is your trusted partner in creating cleaner, healthier waters for future generations.</p>
+
+    <ul>
+        <li><a href="{{ url_for('waste_detection_page') }}">Waste Detection</a></li>
+        <li><a href="{{ url_for('water_quality_page') }}">Water Quality Assessment</a></li>
+        <li><a href="{{ url_for('potability_test_page') }}">Water Potability Test</a></li>
+    </ul>
+</body>
+</html>

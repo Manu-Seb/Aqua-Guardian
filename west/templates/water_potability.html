@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Water Potability Test</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+        }
+
+        .back-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background: #0288d1;
+            padding: 8px 15px;
+            border-radius: 5px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+
+        .back-button:hover {
+            background: #0277bd;
+            transform: scale(1.05);
+        }
+
+        form {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            max-width: 900px;
+            margin: 20px auto;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        label {
+            color: #01579b;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        input {
+            padding: 8px;
+            border: 1px solid #80deea;
+            border-radius: 5px;
+            background: #e0f7fa;
+            color: #333;
+            width: 100%;
+        }
+
+        .button-group {
+            grid-column: span 3;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 10px;
+        }
+
+        button {
+            background: #0288d1;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s ease;
+        }
+
+        button:hover {
+            background: #0277bd;
+        }
+
+        #loadingMessage {
+            display: none;
+            color: #0288d1;
+            font-weight: bold;
+            text-align: center;
+            margin: 10px 0;
+        }
+
+        #resultMessage {
+            color: #0277bd;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        #inputValues {
+            max-width: 900px;
+            margin: 20px auto;
+            background: #e0f7fa;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            display: none;
+        }
+
+        #inputValues h4 {
+            color: #01579b;
+            margin-bottom: 10px;
+        }
+
+        #inputValuesText {
+            font-size: 14px;
+            color: #333;
+        }
+
+        #improvementSuggestions {
+            max-width: 900px;
+            margin: 20px auto;
+            background: #f0f8ff;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            display: none;
+        }
+
+        #improvementSuggestions h4 {
+            color: #1b5e20;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="{{ url_for('home') }}" class="back-button">Back</a>
+        <h1>Water Potability Test</h1>
+        <form id="waterPotabilityForm">
+            {% for feature in ['pH', 'Iron', 'Nitrate', 'Chloride', 'Lead', 'Zinc', 'Turbidity', 'Fluoride', 'Copper', 'Sulfate', 'Chlorine', 'Manganese'] %}
+            <div class="form-group">
+                <label for="{{ feature }}">{{ feature.replace('_', ' ') }}:</label>
+                <input type="number" step="0.01" name="{{ feature }}" required>
+            </div>
+            {% endfor %}
+            <div class="button-group">
+                <button type="submit">Test Potability</button>
+                <button type="button" id="randomPotabilityButton">Random Test</button>
+            </div>
+        </form>
+        <p id="loadingMessage">Processing, please wait...</p>
+        <h3 id="resultMessage"></h3>
+        <div id="inputValues">
+            <h4>Input Values:</h4>
+            <p id="inputValuesText"></p>
+        </div>
+        <div id="improvementSuggestions">
+            <h4>Improvement Suggestions:</h4>
+            <p id="suggestionsText"></p>
+        </div>
+    </div>
+    <script>
+        function displayInputValues(inputData) {
+            // Format input data as a readable string
+            const formattedInput = Object.entries(inputData)
+                .map(([key, value]) => `${key.replace('_', ' ')}: ${value}`)
+                .join(', ');
+            document.getElementById("inputValuesText").innerText = formattedInput;
+            document.getElementById("inputValues").style.display = "block";
+        }
+
+        function handleResponse(data) {
+            document.getElementById("resultMessage").innerText = data.potability || "Error occurred";
+            document.getElementById("loadingMessage").style.display = "none";
+
+            // Display input values
+            if (data.input_data) {
+                displayInputValues(data.input_data);
+            } else {
+                document.getElementById("inputValues").style.display = "none";
+            }
+
+            // Display improvement suggestions if present and not "No improvements needed"
+            if (data.improvement_suggestions && data.improvement_suggestions !== "No improvements needed.") {
+                document.getElementById("suggestionsText").innerText = data.improvement_suggestions;
+                document.getElementById("improvementSuggestions").style.display = "block";
+            } else {
+                document.getElementById("improvementSuggestions").style.display = "none";
+            }
+        }
+
+        document.getElementById("waterPotabilityForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            let formData = new FormData(this);
+            let jsonData = {};
+            formData.forEach((value, key) => jsonData[key] = parseFloat(value));
+            document.getElementById("loadingMessage").style.display = "block";
+            document.getElementById("resultMessage").innerText = ""; // Clear previous result
+            document.getElementById("inputValues").style.display = "none"; // Reset input display
+            document.getElementById("improvementSuggestions").style.display = "none"; // Reset suggestions
+            fetch("{{ url_for('water_potability.test_potability') }}", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(jsonData)
+            })
+            .then(response => response.json())
+            .then(data => handleResponse(data))
+            .catch(error => {
+                console.error("Error:", error);
+                document.getElementById("resultMessage").innerText = "An error occurred.";
+                document.getElementById("loadingMessage").style.display = "none";
+                document.getElementById("inputValues").style.display = "none";
+                document.getElementById("improvementSuggestions").style.display = "none";
+            });
+        });
+
+        document.getElementById("randomPotabilityButton").addEventListener("click", function() {
+            document.getElementById("loadingMessage").style.display = "block";
+            document.getElementById("resultMessage").innerText = ""; // Clear previous result
+            document.getElementById("inputValues").style.display = "none"; // Reset input display
+            document.getElementById("improvementSuggestions").style.display = "none"; // Reset suggestions
+            fetch("{{ url_for('water_potability.random_predict') }}")
+            .then(response => response.json())
+            .then(data => handleResponse(data))
+            .catch(error => {
+                console.error("Error:", error);
+                document.getElementById("resultMessage").innerText = "An error occurred.";
+                document.getElementById("loadingMessage").style.display = "none";
+                document.getElementById("inputValues").style.display = "none";
+                document.getElementById("improvementSuggestions").style.display = "none";
+            });
+        });
+    </script>
+</body>
+</html>

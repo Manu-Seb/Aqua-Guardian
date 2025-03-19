@@ -1,0 +1,142 @@
+/* Reset default margins and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling with a subtle ocean-inspired background */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #e0f7fa, #80deea); /* Light cyan gradient */
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+/* Header styling */
+h1 {
+    font-size: 2.5em;
+    color: #01579b; /* Deep blue */
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 100%; /* Keeps it responsive */
+    height: auto;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 1.2em;
+    text-align: center;
+    max-width: 1200px; /* Increased from 800px to take more width */
+    margin: 0 auto 30px auto;
+    color: #0277bd; /* Medium blue */
+}
+
+/* Navigation list styling */
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px; /* Increased from 15px for better spacing */
+    padding: 0;
+    max-width: 1200px; /* Added max-width to control nav width */
+    margin: 0 auto; /* Centers the nav */
+    width: 100%; /* Ensures it takes full available width up to max-width */
+}
+
+/* List item and link styling */
+li {
+    background: #0288d1; /* Bright blue */
+    border-radius: 5px;
+    transition: transform 0.3s ease, background 0.3s ease;
+    flex: 1; /* Allows items to grow evenly within the ul */
+    min-width: 150px; /* Ensures items don’t get too narrow */
+    text-align: center; /* Centers text in nav items */
+}
+
+li a {
+    display: block;
+    padding: 12px 25px; /* Increased padding for larger buttons */
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2em; /* Slightly larger text */
+}
+
+/* Hover effects */
+li:hover {
+    transform: scale(1.05);
+    background: #0277bd; /* Slightly darker blue */
+}
+
+/* Responsive design */
+@media (max-width: 1200px) {
+    ul {
+        max-width: 900px; /* Adjusted for medium screens */
+    }
+
+    p {
+        max-width: 900px;
+    }
+}
+
+@media (max-width: 900px) {
+    ul {
+        max-width: 600px; /* Adjusted for smaller screens */
+    }
+
+    p {
+        max-width: 600px;
+    }
+
+    li {
+        min-width: 120px; /* Slightly smaller min-width */
+    }
+
+    li a {
+        padding: 10px 20px;
+        font-size: 1.1em;
+    }
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+
+    p {
+        font-size: 1em;
+        max-width: 100%; /* Full width on small screens */
+    }
+
+    ul {
+        flex-direction: column; /* Stack nav items vertically */
+        max-width: 100%; /* Full width */
+        gap: 10px;
+    }
+
+    li {
+        min-width: 100%; /* Full width on small screens */
+    }
+
+    li a {
+        padding: 8px 15px;
+        font-size: 1em;
+    }
+
+    img {
+        width: 100%;
+    }
+}
